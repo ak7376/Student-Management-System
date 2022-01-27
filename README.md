@@ -3,7 +3,7 @@
 A mini project done by 
 
 
-Akshaya Kalyanaraman-RA2111009010240
+Akshaya Kalyanaraman-RA2111009010240,
 Sai Thulasi-RA2111009010241
 
 This project is to implement a simple student management system where student details can be entered,updated,altered and printed.Details can be obtained by roll number,first name and 
