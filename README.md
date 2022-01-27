@@ -1,6 +1,8 @@
 # Student-Management-System
 
 A mini project done by 
+
+
 Akshaya Kalyanaraman-RA2111009010240
 Sai Thulasi-RA2111009010241
 
@@ -24,6 +26,8 @@ Following tasks can be performed:
 5. Find the Total number of Students
 6. Delete the Students Details by Roll Number
 7. Update the Students Details by Roll Number
+
+
 The admin can choose any one of the above choices and do the alloted task.A total of 50 students can be stored in structure. 
 Once the task is completed,it returns to the main menu and the process continues.
 Number '8' is entered to quit the program
